@@ -1,12 +1,11 @@
 
-![MasterHead](https://www.apptha.com/blog/wp-content/uploads/2019/05/Hire-full-stack-developer.jpg)
 
 <h1 align="center">Hey 👋, I'm Brijesh Prajapati</h1>
 <h3 align="center">A Computer science from India</h3>
 
 
 
- <img src="https://media.licdn.com/dms/image/C5612AQHVjIMy3YG4uA/article-cover_image-shrink_600_2000/0/1646650481091?e=2147483647&v=beta&t=UtA-4FRagC5D_-dDrWdVsF9_bSEIqT-8apa-Pnwz9ko" alt="Image"  align="right"/> 
+ <img src="http://tinyurl.com/32337yc4" alt="Image"  align="right"/> 
 
 
 
