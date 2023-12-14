@@ -1,5 +1,5 @@
 
-[![MasterHead](https://www.apptha.com/blog/wp-content/uploads/2019/05/Hire-full-stack-developer.jpg)]
+![MasterHead](https://www.apptha.com/blog/wp-content/uploads/2019/05/Hire-full-stack-developer.jpg)
 
 <h1 align="center">Hey 👋, I'm Brijesh Prajapati</h1>
 <h3 align="center">A Computer science from India</h3>
