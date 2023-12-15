@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Brijesh Prajapati</h1>
-<h3 align="center">A passionate website developer || Website design and development</h3>
+<h1 align="center">Hey! 👋, I'm Brijesh Prajapati</h1>
+<h3 align="center"> Website Design and Development || Encoding Future</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brijeshprajapati53&label=Profile%20views&color=0e75b6&style=flat" alt="brijeshprajapati53" /> </p>
 
