@@ -1,11 +1,10 @@
 
 
 <h1 align="center">Hey 👋, I'm Brijesh Prajapati</h1>
-<h3 align="center">A Computer science from India</h3>
+<h3 align="center">A Computer science student from India</h3>
 
 
 
- <img src="http://tinyurl.com/32337yc4" alt="Image"  align="right"/> 
 
 
 
